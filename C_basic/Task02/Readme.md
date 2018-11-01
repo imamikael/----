@@ -35,14 +35,14 @@ VD: `<img src="https://i.imgur.com/IwtmUfE.png">`
 - Giống như chèn link nhưng thêm ! vào đầu đoạn
 
     `![superb](https://i.imgur.com/IwtmUfE.png)`
-
+* * *
 ### 3.Bold, Italic
 
 - Bold: `**nội dung**`
 -	**nội dung**
 - Italic:`*nội dung*`
 -	*nội dung*
-
+* * *
 ### 4.Trích dẫn, bo chữ
 
 - dùng để làm nổi bật văn bản
@@ -68,6 +68,7 @@ VD:
 nội dung
 ~~~
 ```
+* * *
 ### 5.Gạch đầu dòng
 Cú pháp:
 ```
@@ -93,3 +94,18 @@ trở thành:
   <li>Thụt với đầu dòng 2</li>
   <li>Thụt với đầu dòng 2</li>
   </ul>
+### 6.Tạo bảng
+không cần rườm rà gì cả chỉ việc dùng "|" để ngăn cách cột và"|----|" để thành tiêu để cột
+
+```
+| Cột 1 Hàng 1 | Cột 2 | Cột 3| Cột 4 |
+|--------------|-------|------|-------|
+| Hàng 2 | 2 x 1 | 2 x 2 | 2 x 3 | 2 x 4 |
+| Hàng 3 | 3 x 1 | 3 x 2 | 3 x 3 | 3 x 4 |
+| Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 |
+ ```
+ | Cột 1 Hàng 1 | Cột 2 | Cột 3| Cột 4 |
+|--------------|-------|------|-------|
+| Hàng 2 | 2 x 1 | 2 x 2 | 2 x 3 | 2 x 4 |
+| Hàng 3 | 3 x 1 | 3 x 2 | 3 x 3 | 3 x 4 |
+| Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 |
