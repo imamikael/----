@@ -30,3 +30,5 @@ khá giống núi like ở fb, khi like thì ta sẽ follow chủ sở hữu c�
 copy repo của 1 người về repo của cá nhân để có thể thoải mái chỉnh sửa mà không làm ảnh hưởng đến repo nguyên gốc hay chỉ đơn giản là lấy ý tưởng của repo đó để làm khởi đầu cho repo của mình
 ###*watch*
 giống như notice của fb, dùng để nhận thông báo về 1 câu trả lời của ai đó hay những thay đổi của repo mà ta watching
+## 3.SSH key
+thay vì ta dùng username và password để vào repo thì có thể thay thế được = SSH key tạo thuận tiện cho việc vào repo cũng như độ an toàn của nó khi ta để lộ usr và pwd
