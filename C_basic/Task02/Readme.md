@@ -35,4 +35,12 @@ hoặc là paste trực tiếp :
 
 VD: `<img src="https://i.imgur.com/IwtmUfE.png">`
 
---> <img src="https://i.imgur.com/IwtmUfE.png">
+<img src="https://i.imgur.com/IwtmUfE.png">
+
+#### 3.Bold, Italic
+- Bold: `**nội dung**`
+-	**nội dung**
+- Italic:`*nội dung*`
+-	*nội dung*
+#### 4.trích dẫn, bo chữ
+\`bo chữ`
