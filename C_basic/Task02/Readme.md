@@ -29,7 +29,7 @@ hoặc là paste trực tiếp :
 
 --> https://www.xvideos.com/
 #### Chèn ảnh
-- Cú pháp: `<img src="link hình ảnh"`
+- Cú pháp: `<img src="link hình ảnh">`
 VD: `<img src="https://i.imgur.com/IwtmUfE.png">`
 <img src="https://i.imgur.com/IwtmUfE.png">
 - Giống như chèn link nhưng thêm ! vào đầu đoạn
