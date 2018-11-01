@@ -1,4 +1,4 @@
-# Báo cáo task 2
+	# Báo cáo task 2
 ## Ngôn ngữ Markdown
 + Markdown là dạng ngôn ngữ lập trình được dựa trên 2 tiêu chí là dễ đọc, dễ hiểu
 --> thuận tiện cho việc làm việc với các dạng văn bản dài dòng.
@@ -7,10 +7,22 @@
 
 ### 1.Tiêu đề
 - ta dùng # để đánh dấu tiêu đề với mỗi dấu # là 1 cấp.
-	cú pháp: <<#~# nội dung tiêu đề>> (với dấu # tối đa là 6 ~ 6 cấp tiêu đề)
-	ví dụ:
+cú pháp: `#~# nội dung tiêu đề` (với dấu # tối đa là 6 ~ 6 cấp tiêu đề)
+ví dụ:
+`## đây là cấp 2`
 
 ## đây là cấp 2
+`## đây là cấp 4`
+
 #### đây là cấp 4
+`###### đây là cấp 6`
+
 ###### đây là cấp 6
+
 ### 2.Chèn link, ảnh
+
+#### chèn link
+- cú pháp: `[tên rút gọn](link)`
+VD: `[xvideos](https://www.xvideos.com/)`
+	
+	-->  [xvideos](https://www.xvideos.com/)
