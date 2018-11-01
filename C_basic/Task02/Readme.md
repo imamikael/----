@@ -2,6 +2,18 @@
 ## Ngôn ngữ Markdown
 + Markdown là dạng ngôn ngữ lập trình được dựa trên 2 tiêu chí là dễ đọc, dễ hiểu
 --> thuận tiện cho việc làm việc với các dạng văn bản dài dòng.
+
 ## Các cú pháp thường gặp trong Markdown
+
 ### 1.Tiêu đề
-- ta dùng cú pháp # để đánh dấu tiêu đề
+- ta dùng # để đánh dấu tiêu đề với mỗi dấu # là 1 cấp.
+	cú pháp: <<#~# nội dung tiêu đề>> (với dấu # tối đa là 6 ~ 6 cấp tiêu đề)
+	ví dụ:
+
+##đây là cấp 2
+####đây là cấp 4
+######đây là cấp 6
+<img src="https://imgur.com/GdmtKtj">
+
+### 2.Chèn link, ảnh
+
