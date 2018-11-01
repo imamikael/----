@@ -10,9 +10,12 @@
 	cú pháp: <<#~# nội dung tiêu đề>> (với dấu # tối đa là 6 ~ 6 cấp tiêu đề)
 	ví dụ:
 
-##đây là cấp 2
-####đây là cấp 4
-######đây là cấp 6
+## đây là cấp 2
+
+#### đây là cấp 4
+
+###### đây là cấp 6
+
 <img src="https://imgur.com/GdmtKtj">
 
 ### 2.Chèn link, ảnh
