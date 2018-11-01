@@ -34,7 +34,8 @@ VD: `<img src="https://i.imgur.com/IwtmUfE.png">`
 <img src="https://i.imgur.com/IwtmUfE.png">
 - Giống như chèn link nhưng thêm ! vào đầu đoạn
 
-    `![superb](https://i.imgur.com/IwtmUfE.png)`
+  `![superb](https://i.imgur.com/IwtmUfE.png)`
+
 * * *
 ### 3.Bold, Italic
 
@@ -109,3 +110,13 @@ không cần rườm rà gì cả chỉ việc dùng "|" để ngăn cách cột
 | Hàng 2 | 2 x 1 | 2 x 2 | 2 x 3 | 2 x 4 |
 | Hàng 3 | 3 x 1 | 3 x 2 | 3 x 3 | 3 x 4 |
 | Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 |
+### 7.Ngăn cách
+ta có thể dùng "* * *" , "***" , "- - -" để tạo ngăn cách trong markdown
+VD:
+
+`* * *`
+* * *
+`***`
+***
+`- - -`
+- - -
