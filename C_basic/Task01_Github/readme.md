@@ -1,4 +1,4 @@
-# báo cáo task 1
+#====== báo cáo task 1
 ## cách thức hoạt động của Github
 Hãy tưởng tượng Git là server của game online còn client(lap,pc...) là những con nghiện
 khi client chơi game thì sẽ có những thay đổi về stats,skill tree của nhân vật
