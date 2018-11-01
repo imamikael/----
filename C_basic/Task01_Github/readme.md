@@ -1,14 +1,14 @@
 # báo cáo task 1
-## cách thức hoạt động của Github
+## 1.cách thức hoạt động của Github
 Hãy tưởng tượng Git là server của game online còn client(lap,pc...) là những con nghiện
 khi client chơi game thì sẽ có những thay đổi về stats,skill tree của nhân vật
 	+nếu như ta không đồng tình với stat hay skill tree thì game sẽ cho ta reset lại nó để ta có thể set theo ý muốn cá nhân(tùy game nữa)
 		-->Cũng như Git ghi lại tất cả những thay đổi về source code mỗi khi ta chỉnh sửa nó vào lúc nào, sửa đổi code như thế nào
 	+khi player của client chết thì sẽ như thế nào? về thành là điều tất nhiên.giống như 1 vài game off có hệ thống checkpoint game sẽ lưu lại tất cả trạng thái của player ở 1 thời điểm nào đó để chúng ta có thể bắt đầu lại khi player die(ai đã từng chơi Dark Soul sẽ hiểu cái (cảm giác) này)
 		-->Git cũng vậy, khi lưu tất cả changes đã nói ở trên về source codes thì Git cũng có thể phục hồi nó
-### Đi cùng với Git là Github
+### *Đi cùng với Git là Github
 Github như một blog cá nhân, nó lưu trữ tất cả những thay đổi của cái dòng code mọi lúc.Nhờ điều đó ta có thể khôi phục lại những dữ liệu đã mất khi ta gặp sự cố không mong muốn.Github kết hợp với Git sẽ là thế giới "Hello World" của riêng chúng ta.
-## các khái niệm
+## 2.các khái niệm
 ### *Add*
 như tên gọi thì Add là thêm vào(thêm file)
 ### *Commit*
