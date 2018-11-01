@@ -16,7 +16,7 @@
 
 ###### đây là cấp 6
 
-<img src="https://imgur.com/GdmtKtj">
+<img src="https://i.imgur.com/GdmtKtj.png">
 
 ### 2.Chèn link, ảnh
 
