@@ -22,21 +22,14 @@ ví dụ:
 - Cú pháp: `[tên rút gọn](link)`
 
 VD: `[xvideos](https://www.xvideos.com/)`
-
 --> [xvideos](https://www.xvideos.com/)
-
 hoặc là paste trực tiếp : 
-
 `https://www.xvideos.com/`
-
 --> https://www.xvideos.com/
 #### chèn ảnh
 - Cú pháp: `<img src="link hình ảnh"`
-
 VD: `<img src="https://i.imgur.com/IwtmUfE.png">`
-
 <img src="https://i.imgur.com/IwtmUfE.png">
-
 #### 3.Bold, Italic
 - Bold: `**nội dung**`
 -	**nội dung**
@@ -44,3 +37,4 @@ VD: `<img src="https://i.imgur.com/IwtmUfE.png">`
 -	*nội dung*
 #### 4.trích dẫn, bo chữ
 \`bo chữ`
+
